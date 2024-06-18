@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrowdinPoc</string>
+    <string name="the_cat_is_on_the_table">The cat is on the table</string>
+    <string name="the_cat_is_under_the_table">The cat is under the table</string>
+    <string name="the_bird_is_under_the_table">The bird is under the table</string>
+
+</resources>
